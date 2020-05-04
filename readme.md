@@ -19,13 +19,13 @@ Two-point field goal percentage stabilizes first. You can get a relatively good 
 
 To visualize the variance in these three metrics in addition to `FG%` on a game-by-game basis, I've included the distribution of each below.
 
-![Game_FG%](/plots/Game_FG%.png)
+![Game_FG%](/plots/Game_FG.png)
 
-![Game_2PT%](/plots/Game_2PT%.png)
+![Game_2PT%](/plots/Game_2PT.png)
 
-![Game_3PT%](/plots/Game_3PT%.png)
+![Game_3PT%](/plots/Game_3PT.png)
 
-![Game_FT%](/plots/Game_FT%.png)
+![Game_FT%](/plots/Game_FT.png)
 
 
 
